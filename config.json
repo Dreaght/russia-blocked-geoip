@@ -48,6 +48,14 @@
       }
     },
     {
+      "type": "text",
+      "action": "add",
+      "args": {
+        "name": "roblox",
+        "uri": "https://iplist.opencck.org/?format=text&data=cidr4&site=roblox.com"
+      }
+    },
+    {
       "type": "maxmindGeoLite2ASNCSV",
       "action": "add",
       "args": {

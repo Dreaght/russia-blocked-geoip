@@ -35,6 +35,7 @@
 - `geoip:twitter`
 - `geoip:ddos-guard`
 - `geoip:yandex`
+- `geoip:roblox`
 
 ### Содержимое файлов
 
